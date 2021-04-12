@@ -12,9 +12,9 @@
 		<config-file target="*-Info.plist" parent="NSLocationWhenInUseUsageDescription">
 			<string>This app uses services depending on the location of your sensor. In order to provide you with accurate metadata, we therefore need your location.</string>
 		</config-file>
-		<resource-file src="src/ios/nl.lproj/InfoPlist.strings" />
-		<resource-file src="src/ios/en.lproj/InfoPlist.strings" />
-		<resource-file src="src/ios/de.lproj/InfoPlist.strings" />
-		<resource-file src="src/ios/fr.lproj/InfoPlist.strings" />
+		<resource-file src="src/ios/nl.lproj" />
+		<resource-file src="src/ios/en.lproj" />
+		<resource-file src="src/ios/de.lproj" />
+		<resource-file src="src/ios/fr.lproj" />
 	</platform>
 </plugin>
